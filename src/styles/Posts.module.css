@@ -1,0 +1,8 @@
+.postsList a {
+  display: block;
+  text-decoration: underline;
+}
+
+.post h2 {
+  text-align: center;
+}
